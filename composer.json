@@ -1,5 +1,5 @@
 {
-    "name": "laravel-notification-channels/twilio",
+    "name": "mattkirwan/twilio",
     "description": "Provides Twilio notification channel for Laravel",
     "keywords": ["laravel", "twilio", "notification", "sms", "call", "mms"],
     "license": "MIT",
